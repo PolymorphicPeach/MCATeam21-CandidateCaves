@@ -1,0 +1,63 @@
+,longitude:string,latitude:string,Label:string,TypeCode:string,Priority,APC_Diameter:string,APC_Depth:string,Comment:string
+224,CC0093,255.9496,8.86151,lat,0,,,lateral candidate - overhanging ledge
+352,CC0221,239.6554,-11.51587,sky,0,,,skylight off Arsia south flank
+384,CC0253,248.4829,3.75879,sky,0,,,Famous pit-floor cave on Pavonis
+387,CC0256,250.5591,6.30237,sky,0,,,Lavatube impact NW
+388,CC0257,250.5629,6.29941,sky,0,,,Lavatube impact SE
+403,CC0272,348.9619,34.21344,sky,0,,,Tube?
+405,CC0274,242.1563,-2.37024,sky,0,,,Line of trench pits
+406,CC0275,242.1466,-2.33789,sky,0,,,Trench pit
+407,CC0276,242.2905,-2.48511,sky,0,,,Trench pit
+435,CC0304,236.3029,-1.41553,sky,0,,,Skylight
+436,CC0305,236.4304,-1.38672,sky,0,,,Skylight
+437,CC0306,236.4329,-1.38782,sky,0,,,Skylight
+438,CC0307,236.4423,-1.39038,sky,0,,,Skylight
+439,CC0308,236.4658,-1.42175,sky,0,,,Skylight
+479,CC0348,236.3306,0.59424,sky,0,,,Skylight
+611,CC0480,241.8828,-2.27867,sky,0,,,Small fracture skylight
+612,CC0481,241.8877,-2.27881,sky,0,,,Large fracture skylight
+613,CC0482,241.9834,-2.27173,sky,0,,,Largest fracture skylight
+844,CC0713,161.1316,9.61115,lat,0,,,Large lateral overhang
+847,CC0716,161.1048,9.65024,lat,0,,,cliff wall fracture intersect
+849,CC0718,161.1275,9.64604,lat,0,,,cliff wall fracture intersect
+853,CC0722,161.12,9.61913,lat,0,,,cliff wall fracture intersect
+854,CC0723,161.1192,9.6189,lat,0,,,cliff wall fracture intersect
+855,CC0724,161.117,9.61935,lat,0,,,cliff wall fracture intersect
+856,CC0725,161.1184,9.6161,lat,0,,,Cliff wall lateral tube candidate
+858,CC0727,276.3057,44.09782,lat,0,,,Cliff wall lateral tube candidate
+860,CC0729,161.5894,7.21852,sky,0,,,possible bridge over channel
+861,CC0730,161.5701,7.23542,lat,0,,,cliff wall fracture intersect
+863,CC0732,161.5248,7.27509,lat,0,,,Rim overhang lateral candidate
+864,CC0733,161.5213,7.27475,lat,0,,,Rim overhang lateral candidate
+873,CC0742,226.5841,17.7379,lat,0,,,Good lateral candidate in Olympus Mons caldera rim
+905,CC0774,236.1148,-3.14771,sky,0,,,tube skylight
+906,CC0775,236.0798,-3.08081,sky,0,,,tube skylight
+907,CC0776,236.0749,-3.0733,sky,0,,,tube skylight
+908,CC0777,236.0728,-3.0528,sky,0,,,tube skylight
+909,CC0778,236.0729,-3.04926,sky,0,,,tube skylight
+910,CC0779,236.0719,-3.04401,sky,0,,,tube skylight
+911,CC0780,236.0627,-3.00909,sky,0,,,tube skylight
+912,CC0781,236.0446,-2.99792,sky,0,,,tube skylight
+913,CC0782,236.04,-2.99756,sky,0,,,tube skylight
+914,CC0783,236.0365,-2.99695,sky,0,,,tube skylight
+915,CC0784,236.0146,-2.93555,sky,0,,,tube skylight
+916,CC0785,235.9832,-2.91675,sky,0,,,tube skylight
+917,CC0786,235.9755,-2.91278,sky,0,,,tube skylight
+918,CC0787,235.9736,-2.89459,sky,0,,,tube skylight
+919,CC0788,235.9763,-2.88922,sky,0,,,tube skylight
+920,CC0789,235.9979,-2.85663,sky,0,,,tube skylight
+921,CC0790,235.968,-2.86755,sky,0,,,tube skylight
+922,CC0791,235.9623,-2.85175,sky,0,,,tube skylight
+923,CC0792,235.9459,-2.83087,sky,0,,,tube skylight
+935,CC0804,239.5204,-11.74243,sky,0,,,small 30m skylight in old pit chain
+936,CC0805,239.0983,-11.34962,sky,0,,,small skylight
+937,CC0806,239.1036,-11.3175,sky,0,,,small skylight
+963,CC0832,155.0078,11.40808,lat,0,,,Lateral fracture candidate in Cerberus Fossae
+974,CC0843,249.4994,23.26966,lat,0,,,Pit wall lateral candidate near Olympica Fossae
+975,CC0844,249.4981,23.26611,lat,0,,,Pit wall lateral candidate near Olympica Fossae
+977,CC0846,250.8204,28.02429,lat,0,,,Pit wall candidate in Ceraunius Fossae -see stretch
+978,CC0847,250.8189,28.02674,lat,0,,,Pit wall candidate in Ceraunius Fossae -see stretch
+991,CC0860,240.4131,46.41468,lat,0,,,small channel wall lateral 6m
+992,CC0861,240.4133,46.41562,lat,0,,,small channel wall lateral 3m
+1030,CC0899,232.8965,0.37598,sky,0,,,Cave / natural bridge near Biblis Patera
+1031,CC0900,232.8984,0.37378,sky,0,,,Cave / natural bridge near Biblis Patera
